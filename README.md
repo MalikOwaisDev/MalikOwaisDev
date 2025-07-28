@@ -3,7 +3,7 @@
 <h3 align="center">💻 Full Stack Web Developer | 🧠 WordPress Expert | 📈 SEO Specialist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=1F75FE&center=true&vCenter=true&width=435&lines=Turning+Ideas+Into+Code;3%2B+Years+of+Real+World+Experience;Expert+in+WordPress+%26+MERN+Stack;SEO+Specialist+%7C+Client+Focused+%7C+Fast+Delivery" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=1F75FE&center=true&vCenter=true&width=500&lines=Turning+Ideas+Into+Code;3%2B+Years+of+Real+World+Experience;Expert+in+WordPress+%26+MERN+Stack;SEO+Specialist+%7C+Client+Focused+%7C+Fast+Delivery" alt="Typing SVG" />
 </p>
 
 ---
